@@ -3,5 +3,5 @@ package pkg;
 public class Clase {
 	String nombre = "Iván";
 	
-	int edad = 23;
+	int edad = 42;
 }
