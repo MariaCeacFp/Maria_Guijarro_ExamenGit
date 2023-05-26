@@ -1,7 +1,7 @@
 package pkg;
 
 public class Clase {
-	String nombre = "María";
+	String nombre = "Iván";
 	
-	int edad = 18;
+	int edad = 23;
 }
