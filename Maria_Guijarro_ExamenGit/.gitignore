@@ -7,6 +7,6 @@
 **/*.png
 **/*.jpg
 
-files/
+files/**
 
 #!**/*.java
